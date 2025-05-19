@@ -18,7 +18,7 @@
   --indigo: #C45F90;
   --purple: #A16AE8;
   --pink: #FC8BC0;
-  --red: #F85C70;
+  --red: #0a0a0a;
   --orange: #FF8882;
   --yellow: #FAD02C;
   --green: #A3C14A;
@@ -2499,7 +2499,7 @@ textarea.form-control {
   width: 100%;
   margin-top: 0.25rem;
   font-size: 80%;
-  color: #F85C70;
+  color: #343a40;
 }
 
 .invalid-tooltip {
@@ -2518,7 +2518,7 @@ textarea.form-control {
 }
 
 .was-validated .form-control:invalid, .form-control.is-invalid {
-  border-color: #F85C70;
+  border-color: #212529;
   padding-right: calc(1.5em + 0.75rem);
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23F85C70' viewBox='-2 -2 7 7'%3e%3cpath stroke='%23F85C70' d='M0 0l3 3m0-3L0 3'/%3e%3ccircle r='.5'/%3e%3ccircle cx='3' r='.5'/%3e%3ccircle cy='3' r='.5'/%3e%3ccircle cx='3' cy='3' r='.5'/%3e%3c/svg%3E");
   background-repeat: no-repeat;
@@ -11159,7 +11159,7 @@ p {
 }
 
 .price-card.price-card-requried .num {
-  color: #F85C70;
+  color: #212529;
 }
 
 .portfolio .filters {
